@@ -21,5 +21,3 @@ based on features like present price, car age, mileage, fuel type, and transmiss
 - Mean Absolute Error: [your MAE] Lakhs
 - R² Score: [your R2]
 
-## Internship
-This project was completed as part of the CodeAlpha Data Science Internship.
